@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Pipemarquez
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Netx.js
+- 💞️ I’m looking to collaborate on project
+- 📫 How to reach me felipe_marquez
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
